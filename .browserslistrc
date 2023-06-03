@@ -1,4 +1,5 @@
+# Browsers that we support
+
 last 1 version
 > 1%
-maintained node versions
-not dead
+not dead # no browsers without security updates
